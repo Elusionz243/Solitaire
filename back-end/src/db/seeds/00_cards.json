@@ -2,261 +2,261 @@
   {
     "card_suit": "hearts",
     "card_name": "2",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/1zm0rs4/2-of-hearts.png"
   },
   {
     "card_suit": "hearts",
     "card_name": "3",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/jMH25c8/3-of-hearts.png"
   },
   {
     "card_suit": "hearts",
     "card_name": "4",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/bJf3P7L/4-of-hearts.png"
   },
   {
     "card_suit": "hearts",
     "card_name": "5",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/pJWGZb6/5-of-hearts.png"
   },
   {
     "card_suit": "hearts",
     "card_name": "6",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/pbyhM6F/6-of-hearts.png"
   },
   {
     "card_suit": "hearts",
     "card_name": "7",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/5K8N9K0/7-of-hearts.png"
   },
   {
     "card_suit": "hearts",
     "card_name": "8",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/vQ708gY/8-of-hearts.png"
   },
   {
     "card_suit": "hearts",
     "card_name": "9",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/SnCSGXj/9-of-hearts.png"
   },
   {
     "card_suit": "hearts",
     "card_name": "10",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/1zxp23C/10-of-hearts.png"
   },
   {
     "card_suit": "hearts",
     "card_name": "J",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/NpC8dG3/jack-of-hearts2.png"
   },
   {
     "card_suit": "hearts",
     "card_name": "Q",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/TkKVpXZ/queen-of-hearts2.png"
   },
   {
     "card_suit": "hearts",
     "card_name": "K",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/1Q5RY8k/king-of-hearts2.png"
   },
   {
     "card_suit": "hearts",
     "card_name": "A",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/PGhysL1/ace-of-hearts.png"
   },
   {
     "card_suit": "diamonds",
     "card_name": "2",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/r0MG33d/2-of-diamonds.png"
   },
   {
     "card_suit": "diamonds",
     "card_name": "3",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/fvbWG2M/3-of-diamonds.png"
   },
   {
     "card_suit": "diamonds",
     "card_name": "4",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/7kxcFNF/4-of-diamonds.png"
   },
   {
     "card_suit": "diamonds",
     "card_name": "5",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/mHkNH5j/5-of-diamonds.png"
   },
   {
     "card_suit": "diamonds",
     "card_name": "6",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/Xbh6z5X/6-of-diamonds.png"
   },
   {
     "card_suit": "diamonds",
     "card_name": "7",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/tmgfmqX/7-of-diamonds.png"
   },
   {
     "card_suit": "diamonds",
     "card_name": "8",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/3cVZHB5/8-of-diamonds.png"
   },
   {
     "card_suit": "diamonds",
     "card_name": "9",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/q7jzq93/9-of-diamonds.png"
   },
   {
     "card_suit": "diamonds",
     "card_name": "10",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/4V2jBwL/10-of-diamonds.png"
   },
   {
     "card_suit": "diamonds",
     "card_name": "J",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/dpNTFnw/jack-of-diamonds2.png"
   },
   {
     "card_suit": "diamonds",
     "card_name": "Q",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/JtwMXgm/queen-of-diamonds2.png"
   },
   {
     "card_suit": "diamonds",
     "card_name": "K",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/5hMgNyH/king-of-diamonds2.png"
   },
   {
     "card_suit": "diamonds",
     "card_name": "A",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/GVPCGps/ace-of-diamonds.png"
   },
   {
     "card_suit": "clubs",
     "card_name": "2",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/w04TSs5/2-of-clubs.png"
   },
   {
     "card_suit": "clubs",
     "card_name": "3",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/C2zB1kr/3-of-clubs.png"
   },
   {
     "card_suit": "clubs",
     "card_name": "4",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/1Q5mLBC/4-of-clubs.png"
   },
   {
     "card_suit": "clubs",
     "card_name": "5",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/m4Y38c4/5-of-clubs.png"
   },
   {
     "card_suit": "clubs",
     "card_name": "6",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/r4gx3gq/6-of-clubs.png"
   },
   {
     "card_suit": "clubs",
     "card_name": "7",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/BLYFyN8/7-of-clubs.png"
   },
   {
     "card_suit": "clubs",
     "card_name": "8",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/CsfxDQJ/8-of-clubs.png"
   },
   {
     "card_suit": "clubs",
     "card_name": "9",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/cxJXLQf/9-of-clubs.png"
   },
   {
     "card_suit": "clubs",
     "card_name": "10",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/gZ7PQdb/10-of-clubs.png"
   },
   {
     "card_suit": "clubs",
     "card_name": "J",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/72Kkdvx/jack-of-clubs2.png"
   },
   {
     "card_suit": "clubs",
     "card_name": "Q",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/Q8Q7WGN/queen-of-clubs2.png"
   },
   {
     "card_suit": "clubs",
     "card_name": "K",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/56t9bPC/king-of-clubs2.png"
   },
   {
     "card_suit": "clubs",
     "card_name": "A",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/YZCZwh2/ace-of-clubs.png"
   },
   {
     "card_suit": "spades",
     "card_name": "2",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/MNTdptb/2-of-spades.png"
   },
   {
     "card_suit": "spades",
     "card_name": "3",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/sRbrZ5V/3-of-spades.png"
   },
   {
     "card_suit": "spades",
     "card_name": "4",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/nD8Rjyv/4-of-spades.png"
   },
   {
     "card_suit": "spades",
     "card_name": "5",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/RjSvnH9/5-of-spades.png"
   },
   {
     "card_suit": "spades",
    "card_name": "6",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/Hrd8vfL/6-of-spades.png"
   },
   {
     "card_suit": "spades",
     "card_name": "7",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/QccW0fz/7-of-spades.png"
   },
   {
     "card_suit": "spades",
     "card_name": "8",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/zJTLLRw/8-of-spades.png"
   },
   {
     "card_suit": "spades",
     "card_name": "9",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/YDq3T6n/9-of-spades.png"
   },
   {
     "card_suit": "spades",
     "card_name": "10",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/fQ4LjzM/10-of-spades.png"
   },
   {
     "card_suit": "spades",
     "card_name": "J",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/YjTN28R/jack-of-spades2.png"
   },
   {
     "card_suit": "spades",
     "card_name": "Q",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/HqwLBk8/queen-of-spades2.png"
   },
   {
     "card_suit": "spades",
     "card_name": "K",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/BqXMrF2/king-of-spades2.png"
   },
   {
     "card_suit": "spades",
     "card_name": "A",
-    "card_img": "Some image"
+    "card_img": "https://i.ibb.co/zJVD5wL/ace-of-spades.png"
   }
 ]

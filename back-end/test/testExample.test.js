@@ -5,15 +5,14 @@ const knex = require("../src/db/connection");
 
 describe("Main test name, example -> US-01 returns a list from the database", () => {
   
-  beforeAll(() => {
-    return knex("<table_name>").migrate
-      .forceFreeMigrationsLock()
-      .then(() => knex.migrate.rollback(null, true))
-      .then(() => knex.migrate.latest());
+  beforeAll(async () => {
+    await knex.migrate.forceFreeMigrationsLock();
+    await knex.migrate.rollback(null, true);
+    return await knex.migrate.latest();
   });
 
-  beforeEach(() => {
-    return knex.seed.run();
+  beforeEach(async () => {
+    return await knex.seed.run();
   });
 
   afterAll(async () => {
