@@ -12,7 +12,7 @@ const {
 
 module.exports = {
   development: {
-    client: "postgresql",
+    client: "pg",
     pool: { min: 1, max: 5 },
     connection: DATABASE_URL_DEVELOPMENT,
     migrations: {
@@ -24,7 +24,7 @@ module.exports = {
     debug: !!DEBUG,
   },
   test: {
-    client: "postgresql",
+    client: "pg",
     pool: { min: 1, max: 5 },
     connection: DATABASE_URL_TEST,
     migrations: {
@@ -59,4 +59,4 @@ module.exports = {
     },
     debug: !!DEBUG,
   },
-};;
+};

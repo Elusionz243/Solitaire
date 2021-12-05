@@ -1,0 +1,262 @@
+[
+  {
+    "card_suit": "hearts",
+    "card_name": "2",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "hearts",
+    "card_name": "3",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "hearts",
+    "card_name": "4",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "hearts",
+    "card_name": "5",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "hearts",
+    "card_name": "6",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "hearts",
+    "card_name": "7",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "hearts",
+    "card_name": "8",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "hearts",
+    "card_name": "9",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "hearts",
+    "card_name": "10",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "hearts",
+    "card_name": "J",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "hearts",
+    "card_name": "Q",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "hearts",
+    "card_name": "K",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "hearts",
+    "card_name": "A",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "diamonds",
+    "card_name": "2",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "diamonds",
+    "card_name": "3",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "diamonds",
+    "card_name": "4",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "diamonds",
+    "card_name": "5",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "diamonds",
+    "card_name": "6",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "diamonds",
+    "card_name": "7",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "diamonds",
+    "card_name": "8",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "diamonds",
+    "card_name": "9",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "diamonds",
+    "card_name": "10",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "diamonds",
+    "card_name": "J",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "diamonds",
+    "card_name": "Q",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "diamonds",
+    "card_name": "K",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "diamonds",
+    "card_name": "A",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "clubs",
+    "card_name": "2",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "clubs",
+    "card_name": "3",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "clubs",
+    "card_name": "4",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "clubs",
+    "card_name": "5",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "clubs",
+    "card_name": "6",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "clubs",
+    "card_name": "7",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "clubs",
+    "card_name": "8",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "clubs",
+    "card_name": "9",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "clubs",
+    "card_name": "10",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "clubs",
+    "card_name": "J",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "clubs",
+    "card_name": "Q",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "clubs",
+    "card_name": "K",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "clubs",
+    "card_name": "A",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "spades",
+    "card_name": "2",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "spades",
+    "card_name": "3",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "spades",
+    "card_name": "4",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "spades",
+    "card_name": "5",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "spades",
+   "card_name": "6",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "spades",
+    "card_name": "7",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "spades",
+    "card_name": "8",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "spades",
+    "card_name": "9",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "spades",
+    "card_name": "10",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "spades",
+    "card_name": "J",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "spades",
+    "card_name": "Q",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "spades",
+    "card_name": "K",
+    "card_img": "Some image"
+  },
+  {
+    "card_suit": "spades",
+    "card_name": "A",
+    "card_img": "Some image"
+  }
+]
