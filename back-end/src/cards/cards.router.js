@@ -8,4 +8,8 @@ router.route("/")
   .get(controller.list)
   .all(methodNotAllowed);
 
+router.route("/:cardId")
+  .get(controller.read)
+  .all(methodNotAllowed);
+
 module.exports = router;
